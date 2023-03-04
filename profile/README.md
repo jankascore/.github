@@ -1,4 +1,4 @@
-# ETHDenver 2023 - Welcome ETHDenver Judges!
+# Welcome ETHDenver!
 This is a starting point to assist you in navigating the world of Janka.  We've had a lot of fun with our project and we hope you like it.  This page is a quick overview and includes info for both **Track Judges** and **Bounty Judges.**
 
 ## Repo Overview  
