@@ -66,5 +66,6 @@ Dan
 Daniel
 Mac 
 Rashad
+![The Janka Team](url "profile/PXL_20230304_035547029_cropped.jpg")
 
 
