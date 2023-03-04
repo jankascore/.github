@@ -45,16 +45,16 @@ Artist/Designer/UIUX
 
 
 ## SPONSOR BOUNTY JUDGING 
-[Bounty1](B1_README.md)
-[Bounty2](B2_README.md)
-[Bounty3](B3_README.md)
-[Bounty4](B4_README.md)
-[Bounty5](B5_README.md)
-[Bounty6](B6_README.md)
-[Bounty7](B7_README.md)
-[Bounty8](B8_README.md)
-[Bounty9](B9_README.md)
-[Bounty10](B10_README.md)
+[Bounty1](profile/B1_README.md)
+[Bounty2](profile/B2_README.md)
+[Bounty3](profile/B3_README.md)
+[Bounty4](profile/B4_README.md)
+[Bounty5](profile/B5_README.md)
+[Bounty6](profile/B6_README.md)
+[Bounty7](profile/B7_README.md)
+[Bounty8](profile/B8_README.md)
+[Bounty9](profile/B9_README.md)
+[Bounty10](profile/B10_README.md)
 
 
 ## Beyond ETHDenver
