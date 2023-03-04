@@ -63,5 +63,5 @@ Artist/Designer/UIUX
 
 ## Shilling the Janka Team 
 Mac Daniel Rashad Dan
-![The Janka Team](PXL_20230304_035547029_cropped.jpg "The Janka Team")
+![The Janka Team](profile/PXL_20230304_035547029_cropped.jpg "The Janka Team")
 
