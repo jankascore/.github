@@ -67,5 +67,5 @@ Daniel
 Mac 
 Rashad
 
-![The Janka Team](profile/PXL_20230304_035547029_cropped.jpg "The Janka Team")
+![The Janka Team](PXL_20230304_035547029_cropped.jpg "The Janka Team")
 
