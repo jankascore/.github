@@ -59,9 +59,12 @@ Artist/Designer/UIUX
 
 ## Beyond ETHDenver
 [Keep in Touch & Follow Janka](https://linktr.ee/jankascore)
+Technical Debt  
+Score Improvements  
+
 
 
 ## Shilling the Janka Team 
 Mac Daniel Rashad Dan
-![The Janka Team](profile/PXL_20230304_035547029_cropped.jpg "The Janka Team")
+![Some White Dudes](profile/PXL_20230304_035547029_cropped.jpg "The Good Nerds")
 
