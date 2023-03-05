@@ -66,5 +66,5 @@ Score Improvements
 
 ## Shilling the Janka Team 
 Mac Daniel Rashad Dan
-![Some White Dudes](profile/PXL_20230304_035547029_cropped.jpg "The Good Nerds")
+![Some White Dudes](profile/PXL_20230304_035547029_cropped.jpg "Nerdy Janka Guys")
 
